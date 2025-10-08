@@ -1,8 +1,8 @@
 package exercicio_5_1;
 
 public class Curso {
-    String codigo;
-    String nome;
+    private String codigo;
+    private String nome;
 
     public Curso(String codigo, String nome){
         setCodigo(codigo);
