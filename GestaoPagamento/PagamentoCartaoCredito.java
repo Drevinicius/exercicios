@@ -1,5 +1,3 @@
-package ExerSOLID.exer_5;
-
 // Lógica específica para cartão de crédito
 class PagamentoCartaoCredito extends Pagamento {
     public void processarPagamento(double valor) {

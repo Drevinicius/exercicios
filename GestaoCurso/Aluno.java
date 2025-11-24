@@ -1,5 +1,3 @@
-package exercicio_5_1;
-
 public class Aluno {
     private int matricula;
     private String nomeAluno;

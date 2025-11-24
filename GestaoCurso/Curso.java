@@ -1,5 +1,3 @@
-package exercicio_5_1;
-
 public class Curso {
     private String codigo;
     private String nome;

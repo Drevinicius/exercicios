@@ -1,5 +1,3 @@
-package exercicio_5_3;
-
 public class Produto {
     private String nomeProduto;
     private double precoUnitario;

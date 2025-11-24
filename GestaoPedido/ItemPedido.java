@@ -1,5 +1,3 @@
-package exercicio_5_3;
-
 public class ItemPedido {   
     private Produto produto;
     private int quantidade;

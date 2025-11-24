@@ -1,5 +1,3 @@
-package ExerSOLID.exer_5;
-
 import java.util.Scanner;
 
 public class Main {

@@ -1,5 +1,3 @@
-package ExerSOLID.exer_5;
-
 // Lógica específica para boleto
 class PagamentoBoleto extends Pagamento {
     public void processarPagamento(double valor) {

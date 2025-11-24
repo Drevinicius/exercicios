@@ -1,5 +1,3 @@
-package exercicio_5_3;
-
 public class Cliente {
     private String nomeCliente;
     private String email;

@@ -1,5 +1,3 @@
-package ExerSOLID.exer_5;
-
 // Lógica específica para Pix
 class PagamentoPix extends Pagamento {
     public void processarPagamento(double valor) {
